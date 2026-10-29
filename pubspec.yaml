@@ -1,0 +1,35 @@
+name: jeepboxhero
+description: A record shop simulation game
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flame: ^1.32.0
+  flame_audio: ^2.11.10
+  supabase_flutter: ^2.5.4
+  intl: ^0.20.2
+  audioplayers: ^6.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/backgrounds/
+    - assets/ui/
+    - assets/characters/
+    - assets/shelves/
+    - assets/albums/
+    - assets/receipts/
+    - assets/audio/
