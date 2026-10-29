@@ -39,6 +39,8 @@ flutter run -d chrome
 
 ### Android
 
+Download the Android APK here: [Download Jeep Box Hero APK](https://drive.google.com/file/d/191PJ35IRhnwIqDgUWWta87OyILN3Uw8z/view?usp=sharing). After downloading, open the APK on your Android device and follow the prompts to install it.
+
 Build a release APK:
 
 ```powershell
